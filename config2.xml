@@ -602,4 +602,10 @@
 			<A hash="BD011716"/>
 		</file>
 	</GAME>
+	<GAME hash_type=1 hash="522BCF86">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
+			<A hash="1212121212"/>
+			<B hash="45485888888888"/>
+		</file>
+	</GAME>	
 </config>
