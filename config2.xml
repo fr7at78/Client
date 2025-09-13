@@ -628,8 +628,8 @@
 	</GAME>	
 		<GAME hash_type=1 hash="522BCF86">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="44444444444"/>
-			<B hash="6666666666666"/>
+			<A hash="88888888888888888"/>
+			<B hash="999999999999999999999"/>
 		</file>
 	</GAME>		
 </config>
