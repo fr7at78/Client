@@ -608,22 +608,4 @@
 			<B hash="45485888888888"/>
 		</file>
 	</GAME>
-	<GAME hash_type=1 hash="522BCF86">
-		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="8888888888888888"/>
-			<B hash="9999999999"/>
-		</file>
-	</GAME>		
-	<GAME hash_type=1 hash="522BCF86">
-		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="11111111111111111"/>
-			<B hash="222222222222222222222222222"/>
-		</file>
-	</GAME>
-	<GAME hash_type=1 hash="522BCF86">
-		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="333333333333"/>
-			<B hash="1111111111"/>
-		</file>
-	</GAME>			
 </config>
