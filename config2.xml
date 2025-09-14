@@ -63,4 +63,10 @@
 			<A hash="6ED4205C"/>
 		</file>
 	</GAME>
+		<GAME hash_type=1 hash="9F0D0D0B">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
+			<A hash="D5EB5555AB6"/>
+			<B hash="E272222283E3"/>
+		</file>
+	</GAME>
 </config>
